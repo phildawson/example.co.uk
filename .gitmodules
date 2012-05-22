@@ -1,0 +1,3 @@
+[submodule "steam"]
+	path = steam
+	url = git@github.com:phildawson/steam.git
